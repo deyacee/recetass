@@ -1,1 +1,2 @@
-# recetass
+recetas
+En esta seccion, encontraras recetas pensadas segun las preferencias mas comunes de las personas. A traves de un analisis detallado y encuestas, descubrimos que la mayoria prefiere recetas dulces, faciles de preparar y con ingredientes accesibles, nuestro objetivo es ofrecer una seleccion variada que incluya opciones para todos, postres y recetas dulces, recetas saludables y dieteticas, recetas saladas, etc. cada receta estara explicada paso a paso con imagenes atractivas para que logres los resultados en tu cocina.
